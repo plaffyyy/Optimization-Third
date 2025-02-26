@@ -1,1 +1,1 @@
-University project
+Command University project from Optimization course
